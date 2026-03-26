@@ -1,0 +1,8 @@
+{
+  "name": "Emotion-Aware OS",
+  "description": "A prototype system UI that adapts its theme based on the user's detected emotion (Happy, Sad, Angry) using Gemini API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
